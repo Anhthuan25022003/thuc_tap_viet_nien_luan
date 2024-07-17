@@ -1,0 +1,22 @@
+.header-top{
+    
+    .container{
+        
+        height: 30px;
+
+        .header__top_right{
+            display: flex;
+            justify-content: end;
+            ul{
+                display: flex;
+                column-gap: 10px;
+                list-style-type: none;
+            
+            }
+            
+            
+        }
+       
+    }
+
+}
